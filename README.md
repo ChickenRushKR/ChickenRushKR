@@ -1,14 +1,10 @@
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
-
 <h1> Hello AI < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=ChickenRushKR.ChickenRushKR)
+[![Github](https://img.shields.io/github/followers/ChickenRushKR?label=Follow&style=social)](https://github.com/ChickenRushKR)
 
 <div size='20px'> Hi! My name is Hyeonjin Kim. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -41,15 +37,11 @@ zx8635@gmail.com
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChickenRushKR&theme=tokyonight)](https://git.io/praveenscience)
+[![ChickenRushKR's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChickenRushKR&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ChickenRushKR&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChickenRushKR&theme=tokyonight) |
+| ![ChickenRushKR's github stats](https://github-readme-stats.vercel.app/api?username=ChickenRushKR&show_icons=true&theme=tokyonight) | ![ChickenRushKR GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChickenRushKR&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChickenRushKR&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ChickenRushKR&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
 <br>
 
 
