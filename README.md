@@ -1,9 +1,8 @@
-<h1> Hello AI < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> AI Researcher <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=ChickenRushKR.ChickenRushKR)
 [![Github](https://img.shields.io/github/followers/ChickenRushKR?label=Follow&style=social)](https://github.com/ChickenRushKR)
 
 <div size='20px'> Hi! My name is Hyeonjin Kim. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -13,28 +12,37 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying at the   Graduate school of Kwangwoon University
+- 🔭 광운대학교 컴퓨터공학과 석사
   
-- 🌱 I'm currently majoring in Deep learning.
+- 🌱 단안 이미지로부터의 3차원 얼굴 복원 분야 연구
   
 - 💬 Deep learning, AI Human, 3D Face reconstruction, Image segmentation, Heatmap regression
  
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> Python <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> C lang <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> C++ lang <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> Pytorch <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> Tensorflow <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> MySQL <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> NodeJS <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> Flutter <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'> Dart
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'>
 
 <h2> Papers </h2>
-  <a href='https://ieeexplore.ieee.org/document/9687274'>mmWave path loss modeling for urban scenarios based on 3D-convolutional neural networks</a><br>
-  <a href='https://www.mdpi.com/2079-9292/11/12/1809'>A Novel Machine Learning Scheme for mmWave Path Loss Modeling for 5G Communications in Dense Urban Scenarios</a>
+  *Jin, Woobeen, Hyeonjin Kim, and Hyukjoon Lee. "A Novel Machine Learning Scheme for mmWave Path Loss Modeling for 5G Communications in Dense Urban Scenarios." Electronics 11.12 (2022): 1809.*
+  *Kim, Hyeonjin, Woobeen Jin, and Hyukjoon Lee. "mmWave path loss modeling for urban scenarios based on 3D-convolutional neural networks." 2022 International Conference on Information Networking (ICOIN). IEEE, 2022.*
+  *진우빈, 김현진, and 이혁준. "딥러닝 기반의 밀리미터파 경로 손실 모델링을 위한 다중 데이터 분할 방법." 한국정보과학회 학술발표논문집 (2022): 1426-1428.*
+  *진우빈, 김현진, and 이혁준. "메타러닝과 3D 이미지를 활용한 도심지내 밀리미터파 경로 손실 모델링." 한국통신학회논문지 46.12 (2021): 2229-2236.*
+  *양준혁, et al. "도심지에서의 CNN 기반 5G 밀리미터파 경로손실 모델." 한국정보과학회 학술발표논문집 (2021): 2095-2097.*
   
 
   
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 zx8635@gmail.com<br>
-<a href='https://chickenrush.tistory.com/'>이미지난연구</a><br>
+https://chickenrush.tistory.com/
 <br>
 <br>
-  <br>
   
 [![ChickenRushKR's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChickenRushKR&theme=tokyonight)](https://git.io/praveenscience)
 
