@@ -33,10 +33,15 @@
   </tr>
 </table>
 <h2> Papers </h2>
+
   - Jin, Woobeen, **Hyeonjin Kim**, and Hyukjoon Lee. "A Novel Machine Learning Scheme for mmWave Path Loss Modeling for 5G Communications in Dense Urban Scenarios." Electronics 11.12 (2022): 1809.
+  
   - **Kim, Hyeonjin**, Woobeen Jin, and Hyukjoon Lee. "mmWave path loss modeling for urban scenarios based on 3D-convolutional neural networks." 2022 International Conference on Information Networking (ICOIN). IEEE, 2022.
+    
   - 진우빈, **김현진**, and 이혁준. "딥러닝 기반의 밀리미터파 경로 손실 모델링을 위한 다중 데이터 분할 방법." 한국정보과학회 학술발표논문집 (2022): 1426-1428.
+    
   - 진우빈, **김현진**, and 이혁준. "메타러닝과 3D 이미지를 활용한 도심지내 밀리미터파 경로 손실 모델링." 한국통신학회논문지 46.12 (2021): 2229-2236.
+    
   - **김현진**, et al. "도심지에서의 CNN 기반 5G 밀리미터파 경로손실 모델." 한국정보과학회 학술발표논문집 (2021): 2095-2097.
   
 
