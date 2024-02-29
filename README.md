@@ -52,7 +52,7 @@ https://chickenrush.tistory.com/
 <br>
 <br>
   
-[![ChickenRushKR's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChickenRushKR&theme=tokyonight)](https://git.io/praveenscience)
+<h2> ChickenRushKR's github stats </h2>
 
 | ![ChickenRushKR's github stats](https://github-readme-stats.vercel.app/api?username=ChickenRushKR&show_icons=true&theme=tokyonight) | ![ChickenRushKR GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChickenRushKR&theme=tokyonight) |
 | --- | --- |
