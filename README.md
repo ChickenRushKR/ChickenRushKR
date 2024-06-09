@@ -52,14 +52,6 @@ https://chickenrush.tistory.com/
 <br>
 <br>
   
-<h2> ChickenRushKR's github stats </h2>
-
-| ![ChickenRushKR's github stats](https://github-readme-stats.vercel.app/api?username=ChickenRushKR&show_icons=true&theme=tokyonight) | ![ChickenRushKR GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChickenRushKR&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChickenRushKR&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ChickenRushKR&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-<br>
-
-
 -----
 Credits: [Aditya Deshmukh](https://github.com/Aditya664)
 
